@@ -1,16 +1,14 @@
-## Hi there 👋
+💻 Desenvolvedor Front-end | Cursando T.I
+🔧 Tecnologias e Ferramentas
 
-<!--
-**HyanSilva94/HyanSilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    HTML, CSS, JavaScript
+    PHP, Laravel
+    MySQL, SQLite
+    Git e GitHub
+    React (iniciando estudos)
 
-Here are some ideas to get you started:
+📂 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    TimeFlex → Sistema de agendamento web
+    Cardápio Digital → Cardápio online para pastelaria
+    Exercícios de Programação Web
